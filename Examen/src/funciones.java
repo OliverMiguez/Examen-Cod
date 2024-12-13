@@ -36,8 +36,9 @@ public class funciones {
     /**
      * Esta función escribiría el código con el que podremos crear una tabla , en este caso 8x8, pero esto nos
      * permitiría crear una tabla de cualquier tamaño, al gusto del consumidor
+     * @return Devuelve la tabla creada
      */
-    static void crearTablero(){
+    static int[][] crearTablero(){
 
     }//end crearTablero
 }//end class
