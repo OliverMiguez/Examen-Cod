@@ -10,7 +10,6 @@ public class funciones {
      * @param args no usamos
      */
     public static void main(String[] args) {
-        //Definimos el array del tablero 8x8
     }//end main
 
     /**
