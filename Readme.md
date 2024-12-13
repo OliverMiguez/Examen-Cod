@@ -8,3 +8,5 @@ Con cada apartado realiza un commit diferente
 
 
 ![ExamenCod Oliver.drawio.png]
+
+# Explicación
