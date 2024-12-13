@@ -1,5 +1,6 @@
 /**
  * En este código explicaré las distintas funciones que utilizaría para crear este programa
+ * JavaDoc Examen Cod
  * @author Oliver Miguez Alonso
  * @version 1.0
  */
