@@ -24,4 +24,12 @@ Con cada apartado realiza un commit diferente
 6.Si el contador 1 es mayor que el contador 2 muestra las coordenadas , el número de fichas del jugador 1 y un mensaje de victoria
 lo mismo con el jugador 2
 
+# Por que estas funciones?
+
+Creo que una función que te permite crear una tabla permite más flexibilidad a la hora de darle un tamaño
+en este caso el de 8x8
+
+Otra función la de comprobar si esta ocupado o no , ya que organizaría y haría más fácil de visualizar si existe una casilla ocupada o no
+
+Una función para comprobar quien es el ganador , es muy util porque de una manera muy sencilla nos permite enseñar comprobar quien o no gana
 
